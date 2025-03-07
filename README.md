@@ -1,13 +1,19 @@
 # Apfelbaum
 
-Am Rande eines kleinen Dorfes stand ein alter Apfelbaum. Seit vielen Jahren wuchs er dort, seine Äste weit ausgestreckt wie Arme, die die Welt umarmen wollten. Im Frühling schmückte er sich mit weißen Blüten, im Sommer summten die Bienen um ihn herum, und im Herbst trug er die süßesten, saftigsten Äpfel, die man sich vorstellen konnte.
+Isaac Newton saß entspannt unter einem Apfelbaum, als es passierte – plopp! Ein Apfel fiel ihm direkt auf den Kopf.
 
-Unter diesem Baum spielte einst ein kleiner Junge namens Emil. Er kletterte auf die Äste, versteckte sich im Schatten der Blätter und lauschte dem Rascheln, wenn der Wind durch die Krone fuhr. Der Apfelbaum war Emils bester Freund.
+„Autsch!“ rief er und rieb sich die Stirn. Doch anstatt sich zu ärgern, begann er nachzudenken.
 
-Die Jahre vergingen, und Emil wurde älter. Er zog in die Stadt, weit weg vom Dorf und dem Apfelbaum. Der Baum blieb zurück, einsam und doch geduldig wartend. Die Jahreszeiten kamen und gingen, und manchmal fiel ein Apfel auf den weichen Boden – als würde der Baum hoffen, dass Emil eines Tages zurückkehrt.
+Warum fällt der Apfel eigentlich immer nach unten? Warum nicht zur Seite oder nach oben?
 
-Eines Tages, viele Jahre später, kam ein Mann mit grauen Schläfen und müden Augen zurück ins Dorf. Es war Emil. Als er den Apfelbaum sah, lächelte er. Er trat näher, legte eine Hand auf die raue Rinde und lehnte sich an den Stamm.
+Er sah den Apfel auf dem Boden liegen und überlegte weiter. Vielleicht gab es eine unsichtbare Kraft, die alles nach unten zog? Eine Kraft, die nicht nur für Äpfel galt, sondern für alles auf der Erde?
 
-„Ich bin wieder da“, flüsterte er.
+Er kritzelte ein paar Notizen auf sein Papier, spielte mit Zahlen und erkannte schließlich:
 
-Der Wind rauschte durch die Blätter, als wollte der Apfelbaum antworten. Und in diesem Moment wusste Emil, dass manche Freundschaften ewig halten – selbst zwischen einem Menschen und einem Baum.
+Die gleiche Kraft, die den Apfel nach unten zieht, hält auch den Mond auf seiner Bahn um die Erde!
+
+Newton dachte weiter, rechnete und formulierte schließlich eine einfache, aber geniale Gleichung:
+
+F = m · a
+
+Und so wurde – dank eines fallenden Apfels – die Gravitation verstanden und die Welt der Physik für immer verändert. 🍏✨
